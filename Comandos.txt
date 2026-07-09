@@ -1,0 +1,8 @@
+C:\Users\HOME\venv\Scripts\activate
+
+cd "C:\Users\HOME\Documents\PAOLA TAREAS\REPOSITORIOS\odooPruebas"
+
+
+python odoo-bin -d mi_bd_prueba2 --addons-path=addons,livcampus_odoo.sh-main --db_user=odoo --db_password=odoo
+python odoo-bin -d odoopruebasv3 --addons-path=addons,livcampus_odoo.sh-main --db_user=odoo --db_password=paola
+http://localhost:8069
